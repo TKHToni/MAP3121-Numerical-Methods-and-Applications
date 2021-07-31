@@ -1,0 +1,30 @@
+#EP2 Numérico 2021/1
+
+ O EP2 de numérico trata-se de um exercício de programação baseado em um algoritmo de Householder
+que transforma matrizes simétricas em matrizes tridiagonais simétricas semelhantes.
+Combina-se este algoritmo com o algoritmo da fatoração QR com deslocamentos espectrais
+para matrizes tridiagonais para achar sua matriz diagonalizada com seus autovalores e sua matriz de
+autovetores V desenvolvida no EP1. Aplica-se esse algoritmo em um sistema de treliças planas.
+  
+Taiki Hashizume - 10791812
+Matheus Silva Coutinho - 10410156
+
+## Estrutura dos arquivos
+
+ EP2_10410156_10791812 - Arquivo com todo o código necessário presente dentro dele. 
+Realiza o item da tarefa e caso escolhido pelo usuário de acordo com input.
+
+## Instalação
+
+ Não é necessário nenhuma instalação adicional através de um package manager.
+
+##Utilização
+
+ Basta executar o código. Um prompt aparecerá pedindo uma entrada dentro de algumas
+opções dadas. Basta escolher alguma delas e inserir suas entradas. Ao final da
+execução outro prompt aparecerá perguntando se deseja rodar o código novamente. Lembre-se 
+que os arquivos de input devem estar na mesma pasta em que o código será rodado e devem
+estar formatados de acordo com os requisitos de cada item.
+ Para executar o código foi utilizado Anaconda Navigator 2.0.3 com o Spyder 4.2.5  
+   
+
